@@ -16,14 +16,6 @@
         <module>androidexample-tests</module>
     </modules>
 
-		 <scm> 
-  <developerConnection>
-          scm:git:https://github.com/srinivasnd/android-maven-example.git
-      </developerConnection>
-  <tag>master</tag>
- </scm>
-
-
 
     <dependencyManagement>
         <dependencies>
